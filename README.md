@@ -1,4 +1,4 @@
-# Winternship2023
+# Winternship2024
 
 This repository contains a solution for Playtech's Winternship 2023 task.
 The program is structured into four classes:
