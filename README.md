@@ -3,9 +3,9 @@
 This repository contains a solution for Playtech's Winternship 2023 task.
 The program is structured into four classes:
 
-Main Class: BettingDataMain.java
-Player Class: Player.java
-Casino Class: Casino.java
+Main Class: BettingDataMain.java<br>
+Player Class: Player.java<br>
+Casino Class: Casino.java<br>
 Match Class: Match.java
 
 File Structure
