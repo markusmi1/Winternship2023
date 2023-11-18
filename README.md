@@ -1,6 +1,6 @@
 # Winternship2024
 
-This repository contains a solution for Playtech's Winternship 2023 task.
+This repository contains a solution for Playtech's Winternship 2024 task.
 The program is structured into four classes:
 
 Main Class: BettingDataMain.java<br>
